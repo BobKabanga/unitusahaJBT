@@ -5,4 +5,4 @@ Source kode ini merupakan website dari unit usaha PPGT Jemaat Bukit Tamalanrea y
 Website ini dibuat menggunakan Template :)
 
 
-Silahkan menghubungi pemiliknya jika ada komentar
+### Silahkan menghubungi pemiliknya jika ada komentar
